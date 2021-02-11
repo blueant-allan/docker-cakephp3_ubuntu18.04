@@ -1,4 +1,6 @@
-# Dockerfile development configuration for CakePHP version 3.x using Ubuntu 18.04 as base image
+# Dockerfile development configuration 
+
+For CakePHP version 3.x using Ubuntu 18.04 as base image.
 
 Stack
 
